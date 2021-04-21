@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I built this project using React and HTML5's canvas. This app is hosted at: https://syedasultana.github.io/hangman-game/
+I built this project using React and HTML5's canvas. This app also features API requests for random words. It is hosted at: 
+https://syedasultana.github.io/hangman-game/
 
 ## Available Scripts
 
